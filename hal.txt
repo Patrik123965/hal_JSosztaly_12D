@@ -1,5 +1,5 @@
   
-"Balin","Leuciscus aspius","fenekeszeg, kapókeszeg, őnhal, ragadozó őn, villámkeszeg","https://hu.wikipedia.org/wiki/Balin_(halfaj)","balin.jpg");
+("Balin","Leuciscus aspius","fenekeszeg, kapókeszeg, őnhal, ragadozó őn, villámkeszeg","https://hu.wikipedia.org/wiki/Balin_(halfaj)","balin.jpg");
 "Bodorka","Rutilus rutilus","búzaszemű keszeg","https://hu.wikipedia.org/wiki/Bodorka","bodorka.jpg");
 "Dévérkeszeg", "Abramis brama", null, "https://hu.wikipedia.org/wiki/Dévérkeszeg","deverkeszeg.jpg");
 "Kerikakeszeg","Blicca bjoerkna", null, "https://hu.wikipedia.org/wiki/Karikakeszeg","karikakeszeg.jpg");
